@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: cos
+type: Opaque
+stringData:
+  url: https://coolcar-1258036068.cos.ap-shanghai.myqcloud.com
+  secid: AKIDlMhmbAk47uQggQwBCxRfcJkvpTryoOhk
+  seckey: pOgiU0FDuLVO0MSIs76qJVR7WeV5PSEs

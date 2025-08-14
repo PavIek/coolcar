@@ -1,0 +1,2 @@
+export https_proxy=http://host.docker.internal:7890 http_proxy=http://host.docker.internal:7890 all_proxy=socks5://host.docker.internal:7890
+kind create cluster
